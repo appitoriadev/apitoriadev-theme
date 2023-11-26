@@ -3,8 +3,24 @@
   "displayName": "apitoriadev-theme",
   "description": "",
   "repository": "https://github.com/apitoriadev/apitoriadev-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "apitoriadev",
+  "badges": [{
+    "url": "https://github.com/apitoriadev/apitoriadev-theme/blob/master/assets/icontheme.png",
+    "href": "https://marketplace.visualstudio.com/items?itemName=apitoriadev.apitoriadev-theme",
+    "label": "Version",
+    "description": "Current Version"
+  }, {
+    "url": "https://github.com/apitoriadev/apitoriadev-theme/blob/master/assets/icontheme.png",
+    "href": "https://marketplace.visualstudio.com/items?itemName=apitoriadev.apitoriadev-theme",
+    "label": "Installs",
+    "description": "Installs"
+  }, {
+    "url": "https://github.com/apitoriadev/apitoriadev-theme/blob/master/assets/icontheme.png",
+    "href": "https://marketplace.visualstudio.com/items?itemName=apitoriadev.apitoriadev-theme",
+    "label": "Rating",
+    "description": "Rating"
+  }],
   "engines": {
     "vscode": "^1.84.0"
   },
