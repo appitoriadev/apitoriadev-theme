@@ -2,7 +2,9 @@
   "name": "apitoriadev-theme",
   "displayName": "apitoriadev-theme",
   "description": "",
+  "repository": "https://github.com/apitoriadev/apitoriadev-theme",
   "version": "0.0.1",
+  "publisher": "apitoriadev",
   "engines": {
     "vscode": "^1.84.0"
   },
